@@ -1,3 +1,1 @@
-<div align="center">
-  <img src="./banner.svg" width="100%" alt="Header Laudya" />
-</div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hee+Hii+Hooo%2C+Laudya's+here.+Looking+for+something%3F" alt="Header Laudya" /></div>
