@@ -1,1 +1,3 @@
-# Hee Hii Hooo, Laudya's here. Looking for something?
+<div align="center">
+  <img src="./banner.svg" width="100%" alt="Header Laudya" />
+</div>
